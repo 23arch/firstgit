@@ -1,0 +1,44 @@
+.container1 {
+    height: 400px;
+    width: 200px;
+    position: relative;
+    margin-left: 40px;
+    margin-top: 40px;
+    background-color: blue;
+}
+
+.box {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background-color: green;
+}
+
+.box1 {
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+
+.container2 {
+    width: 80%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    border-style: solid;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.box2 {
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    top: 30px;
+    position: relative;
+}

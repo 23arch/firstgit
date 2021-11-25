@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+}
+
+.upper {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+    background: rgb(36, 0, 0);
+    background: linear-gradient(90deg, rgba(36, 0, 0, 0.7514356084230567) 0%, rgba(121, 9, 26, 0.7094188017003676) 20%, rgba(226, 15, 15, 0) 90%);
+    height: 70vh;
+}
+
+.lower {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    height: 30vh;
+    background-color: red;
+}
+
+.heading {
+    text-align: center;
+}
+
+.text {
+    text-align: justify;
+    margin-right: 10px;
+    color: white;
+    text-size-adjust: 10 px;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.text1 {
+    color: red;
+}

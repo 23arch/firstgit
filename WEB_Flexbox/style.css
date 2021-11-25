@@ -1,0 +1,55 @@
+    .header {
+        background-color: dodgerblue;
+        position: relative;
+        top: 20px;
+        left: 20px;
+        height: 300px;
+        width: 460px;
+    }
+    
+    .brobo {
+        background-color: brown;
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        bottom: 0px;
+        right: 0px;
+    }
+    
+    .pubo {
+        background-color: purple;
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        width: 50px;
+        height: 50px;
+    }
+    
+    .box {
+        justify-content: space-around;
+        text-align: center;
+        background-color: rgb(43, 247, 43);
+        margin: 20px;
+        width: 125px;
+        height: 100px;
+    }
+    
+    .container {
+        display: flex;
+        background-color: yellow;
+        justify-content: space-around;
+        top: 50px;
+        position: relative;
+        height: 150px;
+        margin: 0px;
+        width: 100%;
+    }
+    
+    body {
+        margin: 0;
+    }
+    
+    h1 {
+        margin-left: 20px;
+        margin-top: 20px
+    }

@@ -1,0 +1,58 @@
+       .upper {
+           background-color: yellow;
+           position: relative;
+           width: 100%;
+           height: 150px;
+           display: flex;
+       }
+       
+       .box {
+           background-color: green;
+           width: 30px;
+           height: 30px;
+           position: relative;
+           left: 1100px;
+           margin: 20px;
+           justify-content: space-between;
+           margin-top: 100px;
+       }
+       
+       .bori {
+           background-color: violet;
+           position: absolute;
+           bottom: 0px;
+           right: 0px;
+           width: 50px;
+           height: 50px;
+       }
+       
+       .middle {
+           background-color: dodgerblue;
+           height: 300px;
+           width: 400px;
+           position: relative;
+           left: 20px;
+           top: 20px;
+       }
+       
+       .midbox {
+           position: absolute;
+           right: 0px;
+           bottom: 0px;
+           width: 100px;
+           height: 100px;
+           background-color: brown;
+       }
+       
+       h1 {
+           margin-left: 20px;
+           margin-top: 20px
+       }
+       
+       body {
+           margin: 0;
+       }
+       
+       li {
+           color: hotpink;
+       }

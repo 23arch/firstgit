@@ -1,0 +1,53 @@
+.con1 {
+    height: 40vh;
+    width: 40vh;
+    background-color: black;
+}
+
+.con2 {
+    height: 40vh;
+    width: 40vh;
+    background-color: black;
+}
+
+.header {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
+
+.boxc1 {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.boxc2 {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.ribo {
+    width: 30%;
+    height: 200px;
+    background-color: green;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+}
+
+.rirebo {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+}
