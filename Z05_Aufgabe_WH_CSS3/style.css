@@ -1,0 +1,73 @@
+        .upper {
+            height: 400px;
+            width: 100%;
+            background-color: white;
+            display: flex;
+            position: relative;
+            justify-content: start;
+        }
+        
+        .box1 {
+            background-color: green;
+            width: 200px;
+            height: 200px;
+            justify-content: center;
+            display: flex;
+            margin-top: 150px;
+            margin-left: 20px;
+        }
+        
+        .box2 {
+            background-color: green;
+            width: 200px;
+            height: 200px;
+            justify-content: center;
+            display: flex;
+            margin-top: 150px;
+            margin-left: 20px;
+        }
+        
+        .box3 {
+            background-color: green;
+            width: 200px;
+            height: 200px;
+            justify-content: center;
+            display: flex;
+            margin-top: 150px;
+            margin-left: 20px;
+        }
+        
+        .libo {
+            background-color: white;
+            width: 80px;
+            height: 80px;
+            position: absolute;
+            margin-top: 65px;
+        }
+        
+        .ribo {
+            background-color: aqua;
+            height: 300px;
+            width: 30%;
+            position: absolute;
+            bottom: 0px;
+            right: 0px;
+        }
+        
+        .upbo {
+            background-color: blueviolet;
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+        }
+        
+        .lobo {
+            background-color: blueviolet;
+            width: 50px;
+            height: 50px;
+            bottom: 0px;
+            position: absolute;
+            left: 0px;
+        }
