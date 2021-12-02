@@ -1,0 +1,61 @@
+.ridiv {
+    background-color: aqua;
+    height: 25em;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.didivri {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    top: 140px;
+    position: absolute;
+}
+
+.divo {
+    background-color: black;
+    width: 80em;
+    height: 200px;
+    left: 40px;
+    position: relative;
+    top: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+.end1 {
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    top: 80px;
+    position: relative;
+}
+
+.end2 {
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    top: 80px;
+    position: relative;
+    left: 10px;
+}
+
+.end3 {
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    top: 80px;
+    position: relative;
+    left: 20px;
+}
+
+.divmi {
+    background-color: violet;
+    width: 100px;
+    height: 100px;
+}
