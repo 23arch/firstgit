@@ -1,0 +1,62 @@
+.oreck {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    display: flex;
+    left: 50px;
+}
+
+.grbo {
+    background-color: green;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    left: 0pt;
+    top: 0px;
+}
+
+.blabo {
+    background-color: aqua;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    display: flex;
+    left: 200px;
+}
+
+.schbo {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.orabo {
+    background-color: orange;
+    height: 100px;
+    width: 400px;
+    bottom: 0px;
+    position: absolute;
+}
+
+.graeck {
+    background-color: grey;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.orabo2 {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}

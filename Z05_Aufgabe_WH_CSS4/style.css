@@ -1,5 +1,5 @@
 .ridiv {
-    background-color: aqua;
+    background-color: aquamarine;
     height: 25em;
     width: 500px;
     display: flex;
@@ -7,18 +7,18 @@
     position: absolute;
     left: 0px;
     top: 0px;
+    align-items: center;
 }
 
 .didivri {
     background-color: blue;
     width: 100px;
     height: 100px;
-    top: 140px;
     position: absolute;
 }
 
 .divo {
-    background-color: black;
+    background-color: white;
     width: 80em;
     height: 200px;
     left: 40px;
@@ -32,7 +32,7 @@
     background-color: greenyellow;
     width: 100px;
     height: 100px;
-    top: 80px;
+    top: 40px;
     position: relative;
 }
 
@@ -40,7 +40,7 @@
     background-color: greenyellow;
     width: 100px;
     height: 100px;
-    top: 80px;
+    top: 40px;
     position: relative;
     left: 10px;
 }
@@ -49,13 +49,25 @@
     background-color: greenyellow;
     width: 100px;
     height: 100px;
-    top: 80px;
+    top: 40px;
     position: relative;
     left: 20px;
+}
+
+.orabo {
+    background-color: orange;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
 }
 
 .divmi {
     background-color: violet;
     width: 100px;
     height: 100px;
+    position: relative;
+    top: 130px;
+    left: 420px;
 }
