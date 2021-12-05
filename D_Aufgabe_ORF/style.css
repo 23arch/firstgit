@@ -1,31 +1,49 @@
-.highestdiv {
-    background-color: #b80419;
-    width: 100%;
-    height: 50px;
-    justify-content: space-between;
-    position: absolute;
-    display: flex;
-    top: 0px;
-    left: 0px;
-}
-
-.lidi {
-    width: 80%;
-    height: 50px;
-    position: relative;
-    display: flex;
-    justify-content: space-between;
-}
-
-li {
-    display: inline;
-    color: white;
-    padding-inline: 40px;
-}
-
-.divupperright {
-    position: absolute;
-    top: 15px;
-    right: 20px;
-    color: white;
-}
+        .highestdiv {
+            background-color: #b80419;
+            width: 80%;
+            height: 30px;
+            justify-content: space-between;
+            position: absolute;
+            display: flex;
+            top: 0px;
+            left: 0px;
+        }
+        
+        .lidi {
+            width: 80%;
+            height: 30px;
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+        
+        li {
+            display: inline-block;
+            color: white;
+            padding-inline: 25px;
+        }
+        
+        .divupperright {
+            position: absolute;
+            top: 5px;
+            right: 20px;
+            color: white;
+        }
+        
+        .divsecondupper {
+            background-color: #940415;
+            width: 80%;
+            height: 30px;
+            position: absolute;
+            display: flex;
+            top: 30px;
+        }
+        
+        .whiteback {
+            background-color: white;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 50px;
+            height: 130px;
+        }
