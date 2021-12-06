@@ -1,89 +1,118 @@
-        .highestdiv {
-            background-color: #8d0010;
-            width: 80%;
-            height: 30px;
-            justify-content: space-between;
-            position: absolute;
-            display: flex;
-            top: 0px;
-            left: 40px;
-        }
-        
-        .lidi {
-            width: 80%;
-            height: 30px;
-            position: relative;
-            display: flex;
-            align-items: center;
-        }
-        
-        .divupperright {
-            position: absolute;
-            top: 5px;
-            right: 20px;
-            color: white;
-        }
-        
-        .divsecondupper {
-            background-color: #ca0018;
-            width: 80%;
-            height: 120px;
-            position: absolute;
-            display: flex;
-            top: 30px;
-            left: 40px;
-            align-items: center;
-        }
-        
-        p {
-            color: white;
-            position: absolute;
-            left: 40px;
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 35px;
-        }
-        
-        .logo {
-            position: absolute;
-            left: 200px;
-        }
-        
-        .divthirdupper {
-            background-color: #8d0010;
-            width: 80%;
-            height: 30px;
-            position: absolute;
-            display: flex;
-            left: 40px;
-            top: 150px;
-            align-items: center;
-        }
-        
-        li {
-            display: inline-block;
-            color: white;
-            text-indent: 3.55rem;
-        }
-        
-        .li2 {
-            display: inline-block;
-            color: white;
-            text-indent: 6.3rem;
-        }
-        
-        .li3 {
-            text-indent: 0px;
-        }
-        
-        .rechtesdiv {
-            right: 30px;
-            position: absolute;
-            align-items: center;
-            display: flex;
-        }
-        
-        .photo {
-            position: absolute;
-            top: 180px;
-            left: 40px;
-        }
+                    .highestdiv {
+                        background-color: #8d0010;
+                        width: 80%;
+                        height: 30px;
+                        justify-content: space-between;
+                        position: absolute;
+                        display: flex;
+                        top: 0px;
+                        left: 40px;
+                    }
+                    
+                    .lidi {
+                        width: 80%;
+                        height: 30px;
+                        position: relative;
+                        display: flex;
+                        align-items: center;
+                    }
+                    
+                    .divupperright {
+                        position: absolute;
+                        top: 5px;
+                        right: 20px;
+                        color: white;
+                    }
+                    
+                    .divsecondupper {
+                        background-color: #ca0018;
+                        width: 80%;
+                        height: 120px;
+                        position: absolute;
+                        display: flex;
+                        top: 30px;
+                        left: 40px;
+                        align-items: center;
+                    }
+                    
+                    p {
+                        color: white;
+                        position: absolute;
+                        left: 40px;
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size: 35px;
+                    }
+                    
+                    .logo {
+                        position: absolute;
+                        left: 200px;
+                    }
+                    
+                    .divthirdupper {
+                        background-color: #8d0010;
+                        width: 80%;
+                        height: 30px;
+                        position: absolute;
+                        display: flex;
+                        left: 40px;
+                        top: 150px;
+                        align-items: center;
+                    }
+                    
+                    li {
+                        display: inline-block;
+                        color: white;
+                        text-indent: 3.55rem;
+                    }
+                    
+                    .li2 {
+                        display: inline-block;
+                        color: white;
+                        text-indent: 6.3rem;
+                    }
+                    
+                    .li3 {
+                        text-indent: 0px;
+                    }
+                    
+                    .rechtesdiv {
+                        right: 30px;
+                        position: absolute;
+                        align-items: center;
+                        display: flex;
+                    }
+                    
+                    .photo {
+                        position: absolute;
+                        top: 180px;
+                        left: 40px;
+                    }
+                    
+                    .divbottom {
+                        position: absolute;
+                        width: 60%;
+                        height: 200px;
+                        background-color: white;
+                        left: 175px;
+                        top: 600px;
+                    }
+                    
+                    .übertitel {
+                        color: #5757573d;
+                        left: 30px;
+                        top: 10px;
+                        position: absolute;
+                    }
+                    
+                    .titel {
+                        position: relative;
+                        left: 30px;
+                        top: 30px;
+                    }
+                    
+                    h3 {
+                        position: relative;
+                        left: 30px;
+                        right: 30px;
+                        top: 30px;
+                    }
