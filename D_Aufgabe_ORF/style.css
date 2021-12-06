@@ -43,7 +43,7 @@
             font-size: 35px;
         }
         
-        img {
+        .logo {
             position: absolute;
             left: 200px;
         }
@@ -62,13 +62,17 @@
         li {
             display: inline-block;
             color: white;
-            padding: 28px;
+            text-indent: 3.55rem;
         }
         
         .li2 {
             display: inline-block;
             color: white;
-            padding: 0px 45px;
+            text-indent: 6.3rem;
+        }
+        
+        .li3 {
+            text-indent: 0px;
         }
         
         .rechtesdiv {
@@ -76,4 +80,10 @@
             position: absolute;
             align-items: center;
             display: flex;
+        }
+        
+        .photo {
+            position: absolute;
+            top: 180px;
+            left: 40px;
         }
