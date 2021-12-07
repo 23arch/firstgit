@@ -100,19 +100,21 @@
                     .übertitel {
                         color: #5757573d;
                         left: 30px;
-                        top: 10px;
+                        top: 5px;
                         position: absolute;
+                        font-size: 25px;
                     }
                     
                     .titel {
                         position: relative;
                         left: 30px;
-                        top: 30px;
+                        top: 25px;
+                        font-size: 45px;
                     }
                     
                     h3 {
-                        position: relative;
+                        position: absolute;
                         left: 30px;
                         right: 30px;
-                        top: 30px;
+                        top: 90px;
                     }
