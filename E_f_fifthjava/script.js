@@ -20,10 +20,7 @@ number = 95;
 // Wenn die Zahl kleiner gleich 7 ist gib aus "Mini"
 if (number < 7) {
     console.log("Mini");
-}
-// Wenn die Zahl zwischen 7 und 90 ist gib  aus "Medium"
-else
-if (number < 90) {
+} else if (number < 90) { // Wenn die Zahl zwischen 7 und 90 ist gib  aus "Medium"
     console.log("Medium");
 }
 // Wenn die Zahl größer als 90 ist gib aus "Large"
