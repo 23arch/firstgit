@@ -12,3 +12,7 @@ for (let count = 0; count < 4; count++) {
 for (let count = 0; count < 4; count++) {
     console.log("X");
 }
+
+while (condition) {
+
+}
