@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Z_z_usminternet_passwordgenerator"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
